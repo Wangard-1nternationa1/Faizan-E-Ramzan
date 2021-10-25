@@ -1,0 +1,2 @@
+# Faizan-E-Ramzan
+This app contains various islamic qoutes,  Please note that Wangard team is solely responsible for all kind of working of this app,  so if there is anything bad in this app (like bug or error) kindly report us on the below given email address.  wangardstudios@gmail.com.  Key features:  ~ 95 Qoutes Arabic Urdu English ~ Digital and analogue Kabba Direction ~ Azan, Tayammum, Wuzu, Ghusul, Namaz whole detail process in written. ~ Zakat Calculator, Hajj, Umra Prayers
